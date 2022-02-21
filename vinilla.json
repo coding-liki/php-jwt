@@ -1,0 +1,10 @@
+{
+    "name": "php-jwt",
+    "vendor": "Firebase",
+    "description": "jwt fork",
+    "repo_url": "https://github.com/coding-liki/php-jwt",
+    "version": "1.0",
+    "psr-4": {
+	"Firebase\\JWT\\": "src/"
+    }
+}
